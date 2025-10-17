@@ -1,4 +1,4 @@
-
+vbjbvb.   cc.  nn. VV. nn.  by 
 public class star {
 
     public static void main(String[] sd) {
