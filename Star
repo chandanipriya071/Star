@@ -1,6 +1,5 @@
 
-b.  cfc jj. fr
-
+b.  cfc
 
 
 public class star {
