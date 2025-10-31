@@ -1,10 +1,6 @@
 
 
-hn. gj
-
-
-
-
+hn.
 
 public class star {
 
