@@ -2,7 +2,7 @@
 
 
 
-ok cancel rep
+ok canc
 
 
 public class star {
