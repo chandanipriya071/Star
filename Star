@@ -2,8 +2,7 @@
 
 
 
-ok canc
-
+ok 
 
 public class star {
 
