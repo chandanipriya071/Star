@@ -2,8 +2,7 @@
 
 
 
-ok cancel reply using the same time a
-
+ok cancel reply using the s
 
 
 public class star {
