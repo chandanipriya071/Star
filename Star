@@ -2,7 +2,7 @@
 
 
 
-ok cancel reply using the s
+ok cancel reply usin
 
 
 public class star {
