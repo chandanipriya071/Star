@@ -1,8 +1,7 @@
 
 
 
-effed to the same person 
-
+effed to the same
 
 
 public class star {
