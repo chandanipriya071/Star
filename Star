@@ -1,8 +1,7 @@
 
 
 
-effed to the same
-
+effed 
 
 public class star {
 
