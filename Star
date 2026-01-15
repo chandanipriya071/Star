@@ -15,9 +15,6 @@
 
 
 
-
-
-
 public class star {
 
     public static void main(String[] sd) {
